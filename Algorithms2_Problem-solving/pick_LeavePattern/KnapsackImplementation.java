@@ -30,7 +30,7 @@ public class KnapsackImplementation {
 		int choice1 = knapSack(index + 1, remaining, w, v, memory); // leave it
 		int choice2 = 0;
 
-		if (remaining > w[index]) { // pick it
+		if (remaining >= w[index]) { // pick it
 			choice2 = v[index] + knapSack(index + 1, remaining - w[index], w, v, memory);
 		}
 
