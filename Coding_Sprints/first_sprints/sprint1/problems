@@ -1,0 +1,108 @@
+Sprint 1
+Each sprint information is split into two parts. The top part has the sprint problems and the bottom part has the section of each problem and problem ID. Just Google the problem code name and you will find it easily.
+
+This sprint has some tutorials to study.
+
+Some problems are variants and exists with another problem tutorial. To find such problems, just search with the problem number only in the assigned section. E.g. search with '287 ' in the Linked List section.
+
+
+
+Example:
+
+In the top section you find:
+
+LeetCode 2016 - Max difference 2 elements
+
+Go ahead and Google it. Try to solve it
+
+Now, you want to check my solution
+
+Go to the bottom section
+
+Arrays: Prefix Sum Section - LeetCode 2016 - Max difference 2 elements: E3 Problem #1
+
+2 information here:
+
+It is in the arrays section
+
+Its name there is E3 Problem #1
+
+
+
+
+
+
+
+Sprint Problems
+
+Arrays: Prefix Sum Section - Tutorial - Array Problems
+
+Arrays: Prefix Sum Section - Tutorial - Prefix Sum
+
+LeetCode 2016 - Max difference 2 elements
+
+Arrays: Sliding Window Section - Tutorial - Fixed-size Sliding Window
+
+LeetCode 242 - Valid Anagram
+
+LeetCode 560 - Subarray Sum Equals K
+
+LeetCode 219 - Contains Duplicate II
+
+Arrays: Sliding Window Section - Tutorial - Variable-size Sliding Window (3 videos)
+
+LeetCode 268 - Missing Number
+
+LeetCode 3 - Longest Substring Without Repeating Characters
+
+LeetCode 53 - Maximum Sum Subarray ==> [BAD]
+
+LeetCode 1749 - maximum-absolute-sum-of-any-subarray ==> [BAD]
+
+LeetCode 918 - maximum-sum-circular-subarray ==> [BAD]
+
+LeetCode 155 - Min Stack ==> [good]
+
+
+
+                                                                           ||
+
+                                                                           ||
+
+                                                                           v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sprint Problems Information
+
+Arrays: Prefix Sum Section - LeetCode 2016 - Max difference 2 elements: E3 Problem #1
+
+String: LeetCode 242 - Valid Anagram: E2 Problem #1
+
+Arrays: Prefix Sum Section - LeetCode 560 - Subarray Sum Equals K: M5 Problem #2 A, B, C
+
+Arrays: Sliding Window Section - LeetCode 219 - Contains Duplicate II: E3 Problem #1
+
+Arrays: Ad-hoc Section - Leetcode 268 - Missing Number: E3 Problem #1
+
+Arrays: Sliding Window Section - LeetCode 3 - Longest Substring Without Repeating Characters: M4 Problem #2 A, B
+
+Arrays: Sliding Window Section - LeetCode 53 - Maximum Sum Subarray: M6 Problem #3 A, B
+
+Arrays: Sliding Window Section - LeetCode 1749 - maximum-absolute-sum-of-any-subarray: M6 Problem #3 C
+
+Arrays: Sliding Window Section - LeetCode 918 - maximum-sum-circular-subarray: M6 Problem #3 C
+
+Stack Section - LeetCode 155 - Min Stack - E3 Problem #1
